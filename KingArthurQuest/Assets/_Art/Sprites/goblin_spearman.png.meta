@@ -1,0 +1,1856 @@
+fileFormatVersion: 2
+guid: 1d2f48a4ae002524e99e101cdf3b6b6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4168897870125135045
+    second: goblin_spearman_0
+  - first:
+      213: -5982877908862824833
+    second: goblin_spearman_1
+  - first:
+      213: -7360989935244067579
+    second: goblin_spearman_2
+  - first:
+      213: 9087063403090092179
+    second: goblin_spearman_3
+  - first:
+      213: -3852811849732178361
+    second: goblin_spearman_4
+  - first:
+      213: 9166220850146807539
+    second: goblin_spearman_5
+  - first:
+      213: 4739668642999565500
+    second: goblin_spearman_6
+  - first:
+      213: -1346177806246631663
+    second: goblin_spearman_7
+  - first:
+      213: 1125472613558083220
+    second: goblin_spearman_8
+  - first:
+      213: 4978185034901896448
+    second: goblin_spearman_9
+  - first:
+      213: -2314643499761735780
+    second: goblin_spearman_10
+  - first:
+      213: 6813193263180136893
+    second: goblin_spearman_11
+  - first:
+      213: -7601590687244268656
+    second: goblin_spearman_12
+  - first:
+      213: -3580978133925049632
+    second: goblin_spearman_13
+  - first:
+      213: 4832186195500752860
+    second: goblin_spearman_14
+  - first:
+      213: 6051723471950123409
+    second: goblin_spearman_15
+  - first:
+      213: 7802332010156216839
+    second: goblin_spearman_16
+  - first:
+      213: -7994110093667235245
+    second: goblin_spearman_17
+  - first:
+      213: 1188080246220563762
+    second: goblin_spearman_18
+  - first:
+      213: -3451953722284978356
+    second: goblin_spearman_19
+  - first:
+      213: 7942130913683343520
+    second: goblin_spearman_20
+  - first:
+      213: -2362455445707644413
+    second: goblin_spearman_21
+  - first:
+      213: 6082515944230245837
+    second: goblin_spearman_22
+  - first:
+      213: 5613950097709519634
+    second: goblin_spearman_23
+  - first:
+      213: -8901820137204250238
+    second: goblin_spearman_24
+  - first:
+      213: 5997101689384483969
+    second: goblin_spearman_25
+  - first:
+      213: 4000350777735479684
+    second: goblin_spearman_26
+  - first:
+      213: 1885466821927525886
+    second: goblin_spearman_27
+  - first:
+      213: 6733047452932045759
+    second: goblin_spearman_28
+  - first:
+      213: 69750040373281990
+    second: goblin_spearman_29
+  - first:
+      213: 1833699653522828263
+    second: goblin_spearman_30
+  - first:
+      213: -8812652368416251236
+    second: goblin_spearman_31
+  - first:
+      213: 2721846913132688472
+    second: goblin_spearman_32
+  - first:
+      213: -1871161841393856345
+    second: goblin_spearman_33
+  - first:
+      213: 6486384516778790324
+    second: goblin_spearman_34
+  - first:
+      213: -6974507852599660888
+    second: goblin_spearman_35
+  - first:
+      213: -6344514969325711571
+    second: goblin_spearman_36
+  - first:
+      213: 7116022347687349066
+    second: goblin_spearman_37
+  - first:
+      213: 4958989453970480639
+    second: goblin_spearman_38
+  - first:
+      213: -4936901686904903464
+    second: goblin_spearman_39
+  - first:
+      213: -8022425709961260362
+    second: goblin_spearman_40
+  - first:
+      213: 5605868567314675652
+    second: goblin_spearman_41
+  - first:
+      213: 300352765670539278
+    second: goblin_spearman_42
+  - first:
+      213: 596702494658424325
+    second: goblin_spearman_43
+  - first:
+      213: -426840820689124590
+    second: goblin_spearman_44
+  - first:
+      213: -8909288871704673310
+    second: goblin_spearman_45
+  - first:
+      213: 3986919187969631137
+    second: goblin_spearman_46
+  - first:
+      213: -3179506665494347650
+    second: goblin_spearman_47
+  - first:
+      213: 254871405190987982
+    second: goblin_spearman_48
+  - first:
+      213: -2386514716269715699
+    second: goblin_spearman_49
+  - first:
+      213: -4624641922694464755
+    second: goblin_spearman_50
+  - first:
+      213: -5895489021526852614
+    second: goblin_spearman_51
+  - first:
+      213: -8048394293234416060
+    second: goblin_spearman_52
+  - first:
+      213: 2820641942326058596
+    second: goblin_spearman_53
+  - first:
+      213: 492187559404701007
+    second: goblin_spearman_54
+  - first:
+      213: 5831973006765946685
+    second: goblin_spearman_55
+  - first:
+      213: -5149262316777423289
+    second: goblin_spearman_56
+  - first:
+      213: 2849782813505159968
+    second: goblin_spearman_57
+  - first:
+      213: -3570399710039048134
+    second: goblin_spearman_58
+  - first:
+      213: 2747225406896559562
+    second: goblin_spearman_59
+  - first:
+      213: 6955895224235683134
+    second: goblin_spearman_60
+  - first:
+      213: -5717936082656866739
+    second: goblin_spearman_61
+  - first:
+      213: -3911025930070749190
+    second: goblin_spearman_62
+  - first:
+      213: 3806674302063221696
+    second: goblin_spearman_63
+  - first:
+      213: 1962047866692517517
+    second: goblin_spearman_64
+  - first:
+      213: 1006874542507563589
+    second: goblin_spearman_65
+  - first:
+      213: 761381642890231801
+    second: goblin_spearman_66
+  - first:
+      213: 1721414998444960300
+    second: goblin_spearman_67
+  - first:
+      213: -6073180513136962820
+    second: goblin_spearman_68
+  - first:
+      213: 4536532406664688628
+    second: goblin_spearman_69
+  - first:
+      213: -1517125867060606188
+    second: goblin_spearman_70
+  - first:
+      213: -4222095795871969757
+    second: goblin_spearman_71
+  - first:
+      213: -3021652209118801689
+    second: goblin_spearman_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goblin_spearman_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 961
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4f0bd6686ead930800000000000000
+      internalID: 4168897870125135045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 960
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e03b39d3c88fca0800000000000000
+      internalID: -5982877908862824833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 962
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d3d8277a288d990800000000000000
+      internalID: -7360989935244067579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 961
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39023a0150cbb1e70800000000000000
+      internalID: 9087063403090092179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 961
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e3c462900188ac0800000000000000
+      internalID: -3852811849732178361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 888
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe87c96c45f43f70800000000000000
+      internalID: 9166220850146807539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 888
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcfb0bd48fa6c140800000000000000
+      internalID: 4739668642999565500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 890
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117a726ea6a615de0800000000000000
+      internalID: -1346177806246631663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 890
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e5f87016b7e9f00800000000000000
+      internalID: 1125472613558083220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 889
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d3e77e9e0161540800000000000000
+      internalID: 4978185034901896448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 817
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97e80f100cb0efd0800000000000000
+      internalID: -2314643499761735780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 816
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1cfedcc235d8e50800000000000000
+      internalID: 6813193263180136893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 818
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b43ee7b89b18690800000000000000
+      internalID: -7601590687244268656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 817
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eac4fa2c5fcd4ec0800000000000000
+      internalID: -3580978133925049632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_14
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 817
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf5e572ebf5f0340800000000000000
+      internalID: 4832186195500752860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 744
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1911b703f6a0cf350800000000000000
+      internalID: 6051723471950123409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 746
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702550def93774c60800000000000000
+      internalID: 7802332010156216839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 746
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a899379373f0190800000000000000
+      internalID: -7994110093667235245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_18
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 745
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235a2a070b8ec7010800000000000000
+      internalID: 1188080246220563762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_19
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 744
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fcd1af0623810d0800000000000000
+      internalID: -3451953722284978356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 673
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a88ebd9cfd183e60800000000000000
+      internalID: 7942130913683343520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 673
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302a8e8f94fd63fd0800000000000000
+      internalID: -2362455445707644413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_22
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 674
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc55e745600796450800000000000000
+      internalID: 6082515944230245837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_23
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 673
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213deb0bed1c8ed40800000000000000
+      internalID: 5613950097709519634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_24
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 673
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2898583cfb1667480800000000000000
+      internalID: -8901820137204250238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 601
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c38a5663cf93350800000000000000
+      internalID: 5997101689384483969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48181eb66d9148730800000000000000
+      internalID: 4000350777735479684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 602
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd56ccb5168a2a10800000000000000
+      internalID: 1885466821927525886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_28
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 601
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbfcd73cf6907d50800000000000000
+      internalID: 6733047452932045759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 601
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4c48bca4dc7f000800000000000000
+      internalID: 69750040373281990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_30
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 529
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb2cf89e1c927910800000000000000
+      internalID: 1833699653522828263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 528
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c926b83cc5b23b580800000000000000
+      internalID: -8812652368416251236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_32
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 530
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8547446b851f5c520800000000000000
+      internalID: 2721846913132688472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_33
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 529
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a01476183c4806e0800000000000000
+      internalID: -1871161841393856345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_34
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 525
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd81370a54440a50800000000000000
+      internalID: 6486384516778790324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_35
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 457
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeef928f02953f90800000000000000
+      internalID: -6974507852599660888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 456
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f41350041c3f7a0800000000000000
+      internalID: -6344514969325711571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 458
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b45a77f9031c260800000000000000
+      internalID: 7116022347687349066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_38
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 450
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd91d072aed1d440800000000000000
+      internalID: 4958989453970480639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_39
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 448
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8a105921a9c7bb0800000000000000
+      internalID: -4936901686904903464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_40
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 385
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b25cc8425e9aa090800000000000000
+      internalID: -8022425709961260362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 384
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7b154c2cb0ccd40800000000000000
+      internalID: 5605868567314675652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_42
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 386
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e004911cf311b2400800000000000000
+      internalID: 300352765670539278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_43
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 372
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e64b6e1c9e74800800000000000000
+      internalID: 596702494658424325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_44
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 373
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213403bf88e831af0800000000000000
+      internalID: -426840820689124590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_45
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 331
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3c3b089f8db5480800000000000000
+      internalID: -8909288871704673310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_46
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 312
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a36e1bb0e1645730800000000000000
+      internalID: 3986919187969631137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_47
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 331
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e700932988f10e3d0800000000000000
+      internalID: -3179506665494347650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 312
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec040d1513c798300800000000000000
+      internalID: 254871405190987982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 331
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f5085828561eed0800000000000000
+      internalID: -2386514716269715699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_50
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 312
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bba687ca8f1dfb0800000000000000
+      internalID: -4624641922694464755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_51
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 313
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb3da678f30f2ea0800000000000000
+      internalID: -5895489021526852614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_52
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 313
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4464b73580c5e4090800000000000000
+      internalID: -8048394293234416060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_53
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 238
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e99e2f6eee42720800000000000000
+      internalID: 2820641942326058596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_54
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 238
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f450f214af994d600800000000000000
+      internalID: 492187559404701007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_55
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 238
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3773ffec845fe050800000000000000
+      internalID: 5831973006765946685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_56
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 241
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e3d2174352a88b0800000000000000
+      internalID: -5149262316777423289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_57
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 241
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0230dfdbe567c8720800000000000000
+      internalID: 2849782813505159968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_58
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 161
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3007f86164637ec0800000000000000
+      internalID: -3570399710039048134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_59
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 161
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac55fffb3fa102620800000000000000
+      internalID: 2747225406896559562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_60
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 161
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d676f3add488060800000000000000
+      internalID: 6955895224235683134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_61
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 161
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e49d08d6fc5a0b0800000000000000
+      internalID: -5717936082656866739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_62
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 161
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff8aca53ae39b9c0800000000000000
+      internalID: -3911025930070749190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_63
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 97
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb161eeb1604d430800000000000000
+      internalID: 3806674302063221696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_64
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 96
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e358ea3289a3b10800000000000000
+      internalID: 1962047866692517517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_65
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 98
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a1c8fcf0329fd00800000000000000
+      internalID: 1006874542507563589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_66
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 97
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffb9faf198f09a00800000000000000
+      internalID: 761381642890231801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_67
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 97
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a675512d1b3e710800000000000000
+      internalID: 1721414998444960300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_68
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 25
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf295a9108ab7bba0800000000000000
+      internalID: -6073180513136962820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_69
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 24
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3fb43303005fe30800000000000000
+      internalID: 4536532406664688628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_70
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 26
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bcb4edf0612fae0800000000000000
+      internalID: -1517125867060606188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_71
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 25
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e81674e3a1865c0800000000000000
+      internalID: -4222095795871969757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_spearman_72
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 25
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e013b0435fe016d0800000000000000
+      internalID: -3021652209118801689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

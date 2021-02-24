@@ -1,0 +1,1544 @@
+fileFormatVersion: 2
+guid: 89cdef0b1ee02cc49b78f59010cc8262
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2731422871578229044
+    second: saxon_swordsman_0
+  - first:
+      213: 3368283892332353500
+    second: saxon_swordsman_1
+  - first:
+      213: 3707547384369538545
+    second: saxon_swordsman_2
+  - first:
+      213: -3804671349095970423
+    second: saxon_swordsman_3
+  - first:
+      213: 6368674410896693120
+    second: saxon_swordsman_4
+  - first:
+      213: -1191754808039982729
+    second: saxon_swordsman_5
+  - first:
+      213: -3598605977523138716
+    second: saxon_swordsman_6
+  - first:
+      213: -2324119327293498189
+    second: saxon_swordsman_7
+  - first:
+      213: -8535876994907194431
+    second: saxon_swordsman_8
+  - first:
+      213: -5072840592884027068
+    second: saxon_swordsman_9
+  - first:
+      213: -9204808129834940601
+    second: saxon_swordsman_10
+  - first:
+      213: -2279220221410740487
+    second: saxon_swordsman_11
+  - first:
+      213: 6210374918545202228
+    second: saxon_swordsman_12
+  - first:
+      213: 4089882621642218654
+    second: saxon_swordsman_13
+  - first:
+      213: -1973417125252875579
+    second: saxon_swordsman_14
+  - first:
+      213: 5610256981363483097
+    second: saxon_swordsman_15
+  - first:
+      213: 1911162346442665087
+    second: saxon_swordsman_16
+  - first:
+      213: 5905705310507802423
+    second: saxon_swordsman_17
+  - first:
+      213: 4717951700238407061
+    second: saxon_swordsman_18
+  - first:
+      213: 8101600540631248944
+    second: saxon_swordsman_19
+  - first:
+      213: 6253597885587105732
+    second: saxon_swordsman_20
+  - first:
+      213: -2275336846585259361
+    second: saxon_swordsman_21
+  - first:
+      213: -9180303862655597071
+    second: saxon_swordsman_22
+  - first:
+      213: 3566512312082359454
+    second: saxon_swordsman_23
+  - first:
+      213: 5960936389664321300
+    second: saxon_swordsman_24
+  - first:
+      213: 4037421118090525809
+    second: saxon_swordsman_25
+  - first:
+      213: -2722201516262872635
+    second: saxon_swordsman_26
+  - first:
+      213: 1979134433840140851
+    second: saxon_swordsman_27
+  - first:
+      213: 5678676215927655711
+    second: saxon_swordsman_28
+  - first:
+      213: -4329102245182254993
+    second: saxon_swordsman_29
+  - first:
+      213: 3331403444203053798
+    second: saxon_swordsman_30
+  - first:
+      213: -3641652674684973762
+    second: saxon_swordsman_31
+  - first:
+      213: 4796450954866773098
+    second: saxon_swordsman_32
+  - first:
+      213: -2732005799815287787
+    second: saxon_swordsman_33
+  - first:
+      213: 5733633060169575949
+    second: saxon_swordsman_34
+  - first:
+      213: 1413274587189358811
+    second: saxon_swordsman_35
+  - first:
+      213: 4832986566492330904
+    second: saxon_swordsman_36
+  - first:
+      213: 8108529150059186316
+    second: saxon_swordsman_37
+  - first:
+      213: -9006512824828273298
+    second: saxon_swordsman_38
+  - first:
+      213: -9055308502399170979
+    second: saxon_swordsman_39
+  - first:
+      213: -1225847962708911911
+    second: saxon_swordsman_40
+  - first:
+      213: 7637130518721144037
+    second: saxon_swordsman_41
+  - first:
+      213: 3415324614256812975
+    second: saxon_swordsman_42
+  - first:
+      213: -5206510429536835613
+    second: saxon_swordsman_43
+  - first:
+      213: 1852722150953534521
+    second: saxon_swordsman_44
+  - first:
+      213: 455864806012178609
+    second: saxon_swordsman_45
+  - first:
+      213: -118080199042600228
+    second: saxon_swordsman_46
+  - first:
+      213: 7563425509872881406
+    second: saxon_swordsman_47
+  - first:
+      213: 3829054478216466751
+    second: saxon_swordsman_48
+  - first:
+      213: 8208206338170164394
+    second: saxon_swordsman_49
+  - first:
+      213: -6792927692394959261
+    second: saxon_swordsman_50
+  - first:
+      213: -4790401561118721398
+    second: saxon_swordsman_51
+  - first:
+      213: 5069975996232267482
+    second: saxon_swordsman_52
+  - first:
+      213: 3757705048823724800
+    second: saxon_swordsman_53
+  - first:
+      213: -6163818118661607363
+    second: saxon_swordsman_54
+  - first:
+      213: -6373875685181228360
+    second: saxon_swordsman_55
+  - first:
+      213: -3982022497678502847
+    second: saxon_swordsman_56
+  - first:
+      213: 2954858397846682535
+    second: saxon_swordsman_57
+  - first:
+      213: 6791189994385866166
+    second: saxon_swordsman_58
+  - first:
+      213: -4057307121511826990
+    second: saxon_swordsman_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: saxon_swordsman_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 809
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6c338be59081ad0800000000000000
+      internalID: -2731422871578229044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 809
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7d329aa5c8ebe20800000000000000
+      internalID: 3368283892332353500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 809
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f56641e3bad37330800000000000000
+      internalID: 3707547384369538545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 809
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9894706e097133bc0800000000000000
+      internalID: -3804671349095970423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 809
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0871e9f42a3126850800000000000000
+      internalID: 6368674410896693120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 737
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779b967f059067fe0800000000000000
+      internalID: -1191754808039982729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 737
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fc22ffdee2f0ec0800000000000000
+      internalID: -3598605977523138716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 737
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc1d0919c11fbfd0800000000000000
+      internalID: -2324119327293498189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_8
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 737
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbb02029197a8980800000000000000
+      internalID: -8535876994907194431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 737
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44137fa9b56a999b0800000000000000
+      internalID: -5072840592884027068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 665
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7478f8b66c3f14080800000000000000
+      internalID: -9204808129834940601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 665
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6fce1d8459e50e0800000000000000
+      internalID: -2279220221410740487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 665
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cd1ed951faf2650800000000000000
+      internalID: 6210374918545202228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 665
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c1704439e22c830800000000000000
+      internalID: 4089882621642218654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 665
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca31a784930d94e0800000000000000
+      internalID: -1973417125252875579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 593
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d163d80003abdd40800000000000000
+      internalID: 5610256981363483097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 593
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c21df3700d58a10800000000000000
+      internalID: 1911162346442665087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 593
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f94fca0b745f150800000000000000
+      internalID: 5905705310507802423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 593
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59519281318897140800000000000000
+      internalID: 4717951700238407061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 593
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030307084caae6070800000000000000
+      internalID: 8101600540631248944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 521
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7ad8ad42e39c650800000000000000
+      internalID: 6253597885587105732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 521
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a9dea71316c60e0800000000000000
+      internalID: -2275336846585259361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 521
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f54448b642099080800000000000000
+      internalID: -9180303862655597071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 521
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94e9b83d0cce7130800000000000000
+      internalID: 3566512312082359454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_24
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 521
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f24a2601089b250800000000000000
+      internalID: 5960936389664321300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 449
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c3270ad1dc70830800000000000000
+      internalID: 4037421118090525809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_26
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 449
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c92f10d42cc83ad0800000000000000
+      internalID: -2722201516262872635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 449
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33219cb184c477b10800000000000000
+      internalID: 1979134433840140851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_28
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 449
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dc3d47ee5bece40800000000000000
+      internalID: 5678676215927655711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_29
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 449
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60d09fc170fbe3c0800000000000000
+      internalID: -4329102245182254993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e26c3f28c58b3e20800000000000000
+      internalID: 3331403444203053798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_31
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d0d0acf20467dc0800000000000000
+      internalID: -3641652674684973762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cca631bba609240800000000000000
+      internalID: 4796450954866773098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_33
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ce3b92337f51ad0800000000000000
+      internalID: -2732005799815287787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_34
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 377
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ee7dfd3e4f19f40800000000000000
+      internalID: 5733633060169575949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 305
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0328bcfb5fc9310800000000000000
+      internalID: 1413274587189358811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_36
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 305
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b920c0da7321340800000000000000
+      internalID: 4832986566492330904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_37
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 305
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c888d281d48478070800000000000000
+      internalID: 8108529150059186316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_38
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 305
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d5c1bed40720380800000000000000
+      internalID: -9006512824828273298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_39
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 305
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d564ce6e4e4155280800000000000000
+      internalID: -9055308502399170979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 233
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d85912d5c9ecfee0800000000000000
+      internalID: -1225847962708911911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_41
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 233
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e42ba75eb98cf960800000000000000
+      internalID: 7637130518721144037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 228
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3ec6934aba56f20800000000000000
+      internalID: 3415324614256812975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 233
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e727108952ceb7b0800000000000000
+      internalID: -5206510429536835613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_44
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 233
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934451beaf036b910800000000000000
+      internalID: 1852722150953534521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 161
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b055f330ae835600800000000000000
+      internalID: 455864806012178609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_46
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 161
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2fe014fae7c5ef0800000000000000
+      internalID: -118080199042600228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_47
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 161
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efec911bd6fa6f860800000000000000
+      internalID: 7563425509872881406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_48
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 161
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3116bfb2c8832530800000000000000
+      internalID: 3829054478216466751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_49
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 161
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa41eb5fc2869e170800000000000000
+      internalID: 8208206338170164394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 84
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e62e5114caab1a0800000000000000
+      internalID: -6792927692394959261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_51
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 84
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8aba0a2923158db0800000000000000
+      internalID: -4790401561118721398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_52
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 84
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad67e238e4c2c5640800000000000000
+      internalID: 5069975996232267482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_53
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 89
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b74dd25dc062430800000000000000
+      internalID: 3757705048823724800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_54
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 89
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30fe011418b57aa0800000000000000
+      internalID: -6163818118661607363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_55
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baf546a5d17b87a0800000000000000
+      internalID: -6373875685181228360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1445242d2a30db8c0800000000000000
+      internalID: -3982022497678502847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_57
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab3b3dae04c10920800000000000000
+      internalID: 2954858397846682535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_58
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 6
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd7e8191572f3e50800000000000000
+      internalID: 6791189994385866166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saxon_swordsman_59
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 5
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9ff956bac81b7c0800000000000000
+      internalID: -4057307121511826990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
