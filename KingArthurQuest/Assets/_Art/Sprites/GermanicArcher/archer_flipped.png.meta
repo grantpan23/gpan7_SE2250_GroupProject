@@ -1,307 +1,307 @@
 fileFormatVersion: 2
-guid: 114ad33be165b254fae0665c5b2f101c
+guid: 19da7fb36cf2c7b4786ea2b0d1b683bb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5731584507761909605
-    second: archer_0
+      213: 1076666813425273304
+    second: archer_flipped_0
   - first:
-      213: -7615759149648210162
-    second: archer_1
+      213: 2105573005833325455
+    second: archer_flipped_1
   - first:
-      213: -1516033387003549848
-    second: archer_2
+      213: -4125052656500372430
+    second: archer_flipped_2
   - first:
-      213: 4216426741142755077
-    second: archer_3
+      213: -7198204709368255033
+    second: archer_flipped_3
   - first:
-      213: -4784937291257459594
-    second: archer_4
+      213: -6597026255013610696
+    second: archer_flipped_4
   - first:
-      213: -2896677429709300588
-    second: archer_5
+      213: 8490587408923373884
+    second: archer_flipped_5
   - first:
-      213: -1237044410232977109
-    second: archer_6
+      213: 2232102984991895270
+    second: archer_flipped_6
   - first:
-      213: 4255292104823726704
-    second: archer_7
+      213: -4295938994017716995
+    second: archer_flipped_7
   - first:
-      213: 2375208054730090502
-    second: archer_8
+      213: -6088645331555653042
+    second: archer_flipped_8
   - first:
-      213: 480887029864472272
-    second: archer_9
+      213: 5194477365402431696
+    second: archer_flipped_9
   - first:
-      213: 7135723650130993342
-    second: archer_10
+      213: -826320015347835342
+    second: archer_flipped_10
   - first:
-      213: -2211983078384136945
-    second: archer_11
+      213: 1861621089341777381
+    second: archer_flipped_11
   - first:
-      213: -3783999413710591504
-    second: archer_12
+      213: -2257415316182382474
+    second: archer_flipped_12
   - first:
-      213: -596610279889723890
-    second: archer_13
+      213: -5604872373918589459
+    second: archer_flipped_13
   - first:
-      213: -4286994160140225813
-    second: archer_14
+      213: -3951454267945441736
+    second: archer_flipped_14
   - first:
-      213: 4998874239661532241
-    second: archer_15
+      213: 7192118130085959207
+    second: archer_flipped_15
   - first:
-      213: -5628293126165128258
-    second: archer_16
+      213: 6611400673112521246
+    second: archer_flipped_16
   - first:
-      213: -8695892203303655000
-    second: archer_17
+      213: 1020997116775346974
+    second: archer_flipped_17
   - first:
-      213: 1247079759622273812
-    second: archer_18
+      213: -6357356876128477955
+    second: archer_flipped_18
   - first:
-      213: -1759791881078805778
-    second: archer_19
+      213: -1975757775789172099
+    second: archer_flipped_19
   - first:
-      213: -749623694445501194
-    second: archer_20
+      213: 611044454706757309
+    second: archer_flipped_20
   - first:
-      213: 2755607612910650718
-    second: archer_21
+      213: 3159684655323850273
+    second: archer_flipped_21
   - first:
-      213: -8210838736343395885
-    second: archer_22
+      213: 4467690749599102667
+    second: archer_flipped_22
   - first:
-      213: 8091852143692746023
-    second: archer_23
+      213: 2590960677515753470
+    second: archer_flipped_23
   - first:
-      213: -692223422303060308
-    second: archer_24
+      213: -6768906616918652760
+    second: archer_flipped_24
   - first:
-      213: 1188899609483295625
-    second: archer_25
+      213: -5580437434668353767
+    second: archer_flipped_25
   - first:
-      213: 6750193663811815428
-    second: archer_26
+      213: 6336538899225424071
+    second: archer_flipped_26
   - first:
-      213: 6960232714566914390
-    second: archer_27
+      213: -117285121481880230
+    second: archer_flipped_27
   - first:
-      213: -6192669274392354610
-    second: archer_28
+      213: 3063813882889176367
+    second: archer_flipped_28
   - first:
-      213: 7806576474772676222
-    second: archer_29
+      213: -7076464850620072041
+    second: archer_flipped_29
   - first:
-      213: 1350054635072634140
-    second: archer_30
+      213: 4825707379998696226
+    second: archer_flipped_30
   - first:
-      213: -8080865015671579504
-    second: archer_31
+      213: 1687808224026044050
+    second: archer_flipped_31
   - first:
-      213: -3459434133057761668
-    second: archer_32
+      213: 6283059455999526504
+    second: archer_flipped_32
   - first:
-      213: 9188993476735305784
-    second: archer_33
+      213: -4368684113121719544
+    second: archer_flipped_33
   - first:
-      213: 3682876337854037964
-    second: archer_34
+      213: 7934833068111542829
+    second: archer_flipped_34
   - first:
-      213: -8690252261703445637
-    second: archer_35
+      213: 8773889277831133390
+    second: archer_flipped_35
   - first:
-      213: 2199431665083466589
-    second: archer_36
+      213: -3922143957944896118
+    second: archer_flipped_36
   - first:
-      213: -1072846411591543831
-    second: archer_37
+      213: 2276604418320741856
+    second: archer_flipped_37
   - first:
-      213: -7714815520443705118
-    second: archer_38
+      213: -1745306158451071696
+    second: archer_flipped_38
   - first:
-      213: -5987821559882113715
-    second: archer_39
+      213: 2959819141433758872
+    second: archer_flipped_39
   - first:
-      213: 586967662719736550
-    second: archer_40
+      213: -6330748589580263324
+    second: archer_flipped_40
   - first:
-      213: 7378360416816036763
-    second: archer_41
+      213: 3931825367814293547
+    second: archer_flipped_41
   - first:
-      213: -2208330394184020905
-    second: archer_42
+      213: -382574328806550623
+    second: archer_flipped_42
   - first:
-      213: 1577928163517143401
-    second: archer_43
+      213: -5684037587332964872
+    second: archer_flipped_43
   - first:
-      213: -2364065484177769194
-    second: archer_44
+      213: 6115177197162524240
+    second: archer_flipped_44
   - first:
-      213: 1558779912057075785
-    second: archer_45
+      213: 5063455807242718572
+    second: archer_flipped_45
   - first:
-      213: 8564452691243391688
-    second: archer_46
+      213: -5513297726979204923
+    second: archer_flipped_46
   - first:
-      213: -5748988529756982925
-    second: archer_47
+      213: -2182631708144022160
+    second: archer_flipped_47
   - first:
-      213: -6732478904492060142
-    second: archer_48
+      213: 1269031991894308252
+    second: archer_flipped_48
   - first:
-      213: 3124764041287118524
-    second: archer_49
+      213: 3578501093206218741
+    second: archer_flipped_49
   - first:
-      213: -4403552341971712369
-    second: archer_50
+      213: -8093747335237116112
+    second: archer_flipped_50
   - first:
-      213: 8893205280368066641
-    second: archer_51
+      213: -2612337697739919014
+    second: archer_flipped_51
   - first:
-      213: -6142025346955041082
-    second: archer_52
+      213: 4291052101432068719
+    second: archer_flipped_52
   - first:
-      213: 6405661358059915371
-    second: archer_53
+      213: -2932249022779325297
+    second: archer_flipped_53
   - first:
-      213: 1419057897250634821
-    second: archer_54
+      213: -6459628449021967752
+    second: archer_flipped_54
   - first:
-      213: -1678136111350858270
-    second: archer_55
+      213: -7172909492617710196
+    second: archer_flipped_55
   - first:
-      213: -4506354873426227819
-    second: archer_56
+      213: -8946223994080603857
+    second: archer_flipped_56
   - first:
-      213: 3924113110459149931
-    second: archer_57
+      213: -5808048288232429573
+    second: archer_flipped_57
   - first:
-      213: -4269777419277910768
-    second: archer_58
+      213: -4101679040641624170
+    second: archer_flipped_58
   - first:
-      213: -4182619616922715107
-    second: archer_59
+      213: -6187974365201728732
+    second: archer_flipped_59
   - first:
-      213: 761788597796284461
-    second: archer_60
+      213: 973189684500505133
+    second: archer_flipped_60
   - first:
-      213: -1003139669945826838
-    second: archer_61
+      213: -2092136410449866166
+    second: archer_flipped_61
   - first:
-      213: 696193222248307259
-    second: archer_62
+      213: 6691474207901432824
+    second: archer_flipped_62
   - first:
-      213: 1833413127510296863
-    second: archer_63
+      213: 959643022253319686
+    second: archer_flipped_63
   - first:
-      213: -3297048573823678324
-    second: archer_64
+      213: -9150088547629641292
+    second: archer_flipped_64
   - first:
-      213: 2439742709210466663
-    second: archer_65
+      213: -8029784934368600143
+    second: archer_flipped_65
   - first:
-      213: 7446569851990114479
-    second: archer_66
+      213: -4106800494296094967
+    second: archer_flipped_66
   - first:
-      213: 9118360648541791363
-    second: archer_67
+      213: -4611478191250138942
+    second: archer_flipped_67
   - first:
-      213: -3212744512904996336
-    second: archer_68
+      213: -384783508491485402
+    second: archer_flipped_68
   - first:
-      213: 2346766979659017344
-    second: archer_69
+      213: -4904108932090121588
+    second: archer_flipped_69
   - first:
-      213: 1698928254125892085
-    second: archer_70
+      213: -1887237040220868907
+    second: archer_flipped_70
   - first:
-      213: -8952961088336653516
-    second: archer_71
+      213: -2639708766468735220
+    second: archer_flipped_71
   - first:
-      213: 3955872933358598937
-    second: archer_72
+      213: 6312933151315299816
+    second: archer_flipped_72
   - first:
-      213: 7303562153375264092
-    second: archer_73
+      213: -5376936826358802893
+    second: archer_flipped_73
   - first:
-      213: 5821189487340929186
-    second: archer_74
+      213: -2744496784007552858
+    second: archer_flipped_74
   - first:
-      213: 2550275670883171552
-    second: archer_75
+      213: -1028785429899575031
+    second: archer_flipped_75
   - first:
-      213: -946705264753094060
-    second: archer_76
+      213: 8817843373624706621
+    second: archer_flipped_76
   - first:
-      213: -7299610531501544345
-    second: archer_77
+      213: 104274484016950080
+    second: archer_flipped_77
   - first:
-      213: 3969886229185466524
-    second: archer_78
+      213: -2627884769635341543
+    second: archer_flipped_78
   - first:
-      213: 6741809883941053991
-    second: archer_79
+      213: -1245102286172173505
+    second: archer_flipped_79
   - first:
-      213: 4391985119839302721
-    second: archer_80
+      213: -6008813309807625823
+    second: archer_flipped_80
   - first:
-      213: -3644521332160265262
-    second: archer_81
+      213: -4788787374029815092
+    second: archer_flipped_81
   - first:
-      213: 3933477437942970049
-    second: archer_82
+      213: 2548823535510755457
+    second: archer_flipped_82
   - first:
-      213: -8366485350830573395
-    second: archer_83
+      213: -20412761967406784
+    second: archer_flipped_83
   - first:
-      213: -4257364861227614695
-    second: archer_84
+      213: -8606749308232795737
+    second: archer_flipped_84
   - first:
-      213: -8879807829000531267
-    second: archer_85
+      213: 6686219596394778592
+    second: archer_flipped_85
   - first:
-      213: -2155958683874528815
-    second: archer_86
+      213: -7285504364973598120
+    second: archer_flipped_86
   - first:
-      213: 5380560293964647937
-    second: archer_87
+      213: -708716734555823156
+    second: archer_flipped_87
   - first:
-      213: 2859221492986296934
-    second: archer_88
+      213: 8357617159375745917
+    second: archer_flipped_88
   - first:
-      213: -358515494840468595
-    second: archer_89
+      213: 5034411708573282588
+    second: archer_flipped_89
   - first:
-      213: -9187529232318199986
-    second: archer_90
+      213: -1049373008365082312
+    second: archer_flipped_90
   - first:
-      213: 4648301247832431550
-    second: archer_91
+      213: 5110631380015000860
+    second: archer_flipped_91
   - first:
-      213: -2836790700992141578
-    second: archer_92
+      213: 6915910887757526095
+    second: archer_flipped_92
   - first:
-      213: 7985618450872540671
-    second: archer_93
+      213: 5549380039085272094
+    second: archer_flipped_93
   - first:
-      213: 5437810589345549582
-    second: archer_94
+      213: -5250204807408970989
+    second: archer_flipped_94
   - first:
-      213: 4343410760109836468
-    second: archer_95
+      213: 2368797776309224749
+    second: archer_flipped_95
   - first:
-      213: -4837935493822103991
-    second: archer_96
+      213: 656426068712226076
+    second: archer_flipped_96
   - first:
-      213: 4129541974469845643
-    second: archer_97
+      213: -6948678585837808908
+    second: archer_flipped_97
   - first:
-      213: -7544491976808610913
-    second: archer_98
+      213: -1534917655464541055
+    second: archer_flipped_98
   - first:
-      213: 255673319446476375
-    second: archer_99
+      213: -7698700598822184390
+    second: archer_flipped_99
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -387,94 +387,10 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: archer_0
+      name: archer_flipped_0
       rect:
         serializedVersion: 2
-        x: 24
-        y: 1390
-        width: 25
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 56fd7491ebdaa8f40800000000000000
-      internalID: 5731584507761909605
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_1
-      rect:
-        serializedVersion: 2
-        x: 99
-        y: 1388
-        width: 19
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e07994647636f4690800000000000000
-      internalID: -7615759149648210162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_2
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 1386
-        width: 24
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8676504baa7f5fae0800000000000000
-      internalID: -1516033387003549848
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_3
-      rect:
-        serializedVersion: 2
-        x: 241
-        y: 1387
-        width: 23
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 507954f08c1c38a30800000000000000
-      internalID: 4216426741142755077
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_4
-      rect:
-        serializedVersion: 2
-        x: 313
+        x: 23
         y: 1389
         width: 24
         height: 31
@@ -485,20 +401,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67c4412a2ec789db0800000000000000
-      internalID: -4784937291257459594
+      spriteID: 8d94aab23c611fe00800000000000000
+      internalID: 1076666813425273304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_5
+      name: archer_flipped_1
       rect:
         serializedVersion: 2
-        x: 26
-        y: 1317
-        width: 22
-        height: 31
+        x: 96
+        y: 1387
+        width: 23
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,17 +422,143 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49c1945993fecc7d0800000000000000
-      internalID: -2896677429709300588
+      spriteID: f8bc8553e7f783d10800000000000000
+      internalID: 2105573005833325455
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_6
+      name: archer_flipped_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1386
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c8381e67ed0c6c0800000000000000
+      internalID: -4125052656500372430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1388
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdaf8d54f6da1c90800000000000000
+      internalID: -7198204709368255033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1390
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bfcf7d297a274a0800000000000000
+      internalID: -6597026255013610696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1314
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31384b6340a4d570800000000000000
+      internalID: 8490587408923373884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_6
       rect:
         serializedVersion: 2
         x: 96
+        y: 1317
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eee782b6d50afe10800000000000000
+      internalID: 2232102984991895270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1314
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df433dcee32c164c0800000000000000
+      internalID: -4295938994017716995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_8
+      rect:
+        serializedVersion: 2
+        x: 238
         y: 1316
         width: 26
         height: 36
@@ -527,104 +569,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b294eacb9a225dee0800000000000000
-      internalID: -1237044410232977109
+      spriteID: e4ae8497459c08ba0800000000000000
+      internalID: -6088645331555653042
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_7
+      name: archer_flipped_9
       rect:
         serializedVersion: 2
-        x: 167
-        y: 1314
-        width: 26
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 072ea83bf95dd0b30800000000000000
-      internalID: 4255292104823726704
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_8
-      rect:
-        serializedVersion: 2
-        x: 241
+        x: 312
         y: 1317
-        width: 23
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 60865d1342f66f020800000000000000
-      internalID: 2375208054730090502
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_9
-      rect:
-        serializedVersion: 2
-        x: 314
-        y: 1314
-        width: 23
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0de1a20b4347ca600800000000000000
-      internalID: 480887029864472272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_10
-      rect:
-        serializedVersion: 2
-        x: 25
-        y: 1246
-        width: 24
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eb069656ade270360800000000000000
-      internalID: 7135723650130993342
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_11
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 1244
         width: 22
-        height: 37
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -632,20 +590,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0d0dbb1c157d41e0800000000000000
-      internalID: -2211983078384136945
+      spriteID: 0d07e9e64ad761840800000000000000
+      internalID: 5194477365402431696
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_12
+      name: archer_flipped_10
       rect:
         serializedVersion: 2
-        x: 171
-        y: 1242
-        width: 21
-        height: 33
+        x: 23
+        y: 1244
+        width: 24
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -653,17 +611,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f96e7be4988c7bc0800000000000000
-      internalID: -3783999413710591504
+      spriteID: 23e9566f2525884f0800000000000000
+      internalID: -826320015347835342
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_13
+      name: archer_flipped_11
       rect:
         serializedVersion: 2
-        x: 241
+        x: 93
         y: 1243
         width: 26
         height: 31
@@ -674,102 +632,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0e93d58c1a68b7f0800000000000000
-      internalID: -596610279889723890
+      spriteID: 5e5a798748ec5d910800000000000000
+      internalID: 1861621089341777381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_14
+      name: archer_flipped_12
       rect:
         serializedVersion: 2
-        x: 313
-        y: 1244
-        width: 24
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: be2faaa56898184c0800000000000000
-      internalID: -4286994160140225813
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_15
-      rect:
-        serializedVersion: 2
-        x: 26
-        y: 1173
-        width: 22
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 15460e3c2a19f5540800000000000000
-      internalID: 4998874239661532241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_16
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 1176
-        width: 23
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ebb9723c83944e1b0800000000000000
-      internalID: -5628293126165128258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_17
-      rect:
-        serializedVersion: 2
-        x: 167
-        y: 1171
-        width: 29
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8a92ff82d1cf15780800000000000000
-      internalID: -8695892203303655000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_18
-      rect:
-        serializedVersion: 2
-        x: 241
-        y: 1172
+        x: 168
+        y: 1242
         width: 21
         height: 33
       alignment: 0
@@ -779,17 +653,59 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41b7dde1f648e4110800000000000000
-      internalID: 1247079759622273812
+      spriteID: 6784c60fabc0ca0e0800000000000000
+      internalID: -2257415316182382474
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_19
+      name: archer_flipped_13
       rect:
         serializedVersion: 2
-        x: 313
+        x: 240
+        y: 1244
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded9e25954e7732b0800000000000000
+      internalID: -5604872373918589459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_14
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1246
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83629ec674d9929c0800000000000000
+      internalID: -3951454267945441736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_15
+      rect:
+        serializedVersion: 2
+        x: 24
         y: 1170
         width: 23
         height: 35
@@ -800,19 +716,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eea6ea1ab96f397e0800000000000000
-      internalID: -1759791881078805778
+      spriteID: 7269b6675598fc360800000000000000
+      internalID: 7192118130085959207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_20
+      name: archer_flipped_16
       rect:
         serializedVersion: 2
-        x: 24
-        y: 1102
-        width: 25
+        x: 98
+        y: 1172
+        width: 21
         height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -821,20 +737,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f42c59b83dc895f0800000000000000
-      internalID: -749623694445501194
+      spriteID: e1a76ac22e960cb50800000000000000
+      internalID: 6611400673112521246
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_21
+      name: archer_flipped_17
       rect:
         serializedVersion: 2
-        x: 97
-        y: 1103
-        width: 20
-        height: 34
+        x: 164
+        y: 1171
+        width: 29
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -842,39 +758,39 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e55c6eb2682ed3620800000000000000
-      internalID: 2755607612910650718
+      spriteID: e13b71ed77f4b2e00800000000000000
+      internalID: 1020997116775346974
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_22
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 1098
-        width: 25
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d11c341cad3d0e80800000000000000
-      internalID: -8210838736343395885
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_23
+      name: archer_flipped_18
       rect:
         serializedVersion: 2
         x: 241
-        y: 1099
+        y: 1176
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc99f79a9126c7a0800000000000000
+      internalID: -6357356876128477955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_19
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1173
         width: 22
         height: 35
       alignment: 0
@@ -884,17 +800,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72d0ac7f6a80c4070800000000000000
-      internalID: 8091852143692746023
+      spriteID: d7adedb55c2b494e0800000000000000
+      internalID: -1975757775789172099
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_24
+      name: archer_flipped_20
       rect:
         serializedVersion: 2
-        x: 313
+        x: 23
         y: 1100
         width: 24
         height: 33
@@ -905,61 +821,40 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: caebb68077ab466f0800000000000000
-      internalID: -692223422303060308
+      spriteID: dbeb4c0b1bdda7800800000000000000
+      internalID: 611044454706757309
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_25
+      name: archer_flipped_21
       rect:
         serializedVersion: 2
-        x: 22
-        y: 1030
+        x: 97
+        y: 1099
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126a4da047479db20800000000000000
+      internalID: 3159684655323850273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1098
         width: 25
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 98b3ad055e1df7010800000000000000
-      internalID: 1188899609483295625
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_26
-      rect:
-        serializedVersion: 2
-        x: 99
-        y: 1028
-        width: 26
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 40888988f518dad50800000000000000
-      internalID: 6750193663811815428
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_27
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 1026
-        width: 29
         height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -968,20 +863,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65150d9e6c6b79060800000000000000
-      internalID: 6960232714566914390
+      spriteID: bc63720e01d600e30800000000000000
+      internalID: 4467690749599102667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_28
+      name: archer_flipped_23
       rect:
         serializedVersion: 2
-        x: 242
-        y: 1027
-        width: 28
-        height: 31
+        x: 243
+        y: 1103
+        width: 20
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -989,17 +884,38 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec02e58ea183f0aa0800000000000000
-      internalID: -6192669274392354610
+      spriteID: ef7f45a3201f4f320800000000000000
+      internalID: 2590960677515753470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_29
+      name: archer_flipped_24
       rect:
         serializedVersion: 2
-        x: 315
+        x: 311
+        y: 1102
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8c5cc8b430012a0800000000000000
+      internalID: -6768906616918652760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_25
+      rect:
+        serializedVersion: 2
+        x: 19
         y: 1029
         width: 26
         height: 32
@@ -1010,20 +926,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7e1fba51f7865c60800000000000000
-      internalID: 7806576474772676222
+      spriteID: 917fc4738bd4e82b0800000000000000
+      internalID: -5580437434668353767
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_30
+      name: archer_flipped_26
       rect:
         serializedVersion: 2
-        x: 25
-        y: 957
-        width: 27
-        height: 41
+        x: 90
+        y: 1027
+        width: 28
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1031,18 +947,39 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1dbfd6a98b5cb210800000000000000
-      internalID: 1350054635072634140
+      spriteID: 7c0b6c17e88efe750800000000000000
+      internalID: 6336538899225424071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_31
+      name: archer_flipped_27
       rect:
         serializedVersion: 2
-        x: 102
-        y: 958
+        x: 161
+        y: 1026
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d42acadc15f5ef0800000000000000
+      internalID: -117285121481880230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_28
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1028
         width: 26
         height: 37
       alignment: 0
@@ -1052,20 +989,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09c930f15100bdf80800000000000000
-      internalID: -8080865015671579504
+      spriteID: f2505836e7ad48a20800000000000000
+      internalID: 3063813882889176367
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_32
+      name: archer_flipped_29
       rect:
         serializedVersion: 2
-        x: 169
-        y: 954
-        width: 37
-        height: 35
+        x: 313
+        y: 1030
+        width: 25
+        height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1073,38 +1010,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7e0b3f1cfe9dffc0800000000000000
-      internalID: -3459434133057761668
+      spriteID: 79fb04906b85bcd90800000000000000
+      internalID: -7076464850620072041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_33
+      name: archer_flipped_30
       rect:
         serializedVersion: 2
-        x: 239
-        y: 956
-        width: 27
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8388038b1ecd58f70800000000000000
-      internalID: 9188993476735305784
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_34
-      rect:
-        serializedVersion: 2
-        x: 308
+        x: 25
         y: 953
         width: 27
         height: 35
@@ -1115,82 +1031,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ccf3b7d34843c1330800000000000000
-      internalID: 3682876337854037964
+      spriteID: 223adce5b4b58f240800000000000000
+      internalID: 4825707379998696226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_35
+      name: archer_flipped_31
       rect:
         serializedVersion: 2
-        x: 25
-        y: 885
+        x: 94
+        y: 956
         width: 27
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b7391a46c95066780800000000000000
-      internalID: -8690252261703445637
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_36
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 886
-        width: 26
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d53cb014273f58e10800000000000000
-      internalID: 2199431665083466589
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_37
-      rect:
-        serializedVersion: 2
-        x: 169
-        y: 882
-        width: 32
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9e398827fdb7c11f0800000000000000
-      internalID: -1072846411591543831
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_38
-      rect:
-        serializedVersion: 2
-        x: 239
-        y: 884
-        width: 35
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1199,17 +1052,80 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e85844b8287fe490800000000000000
-      internalID: -7714815520443705118
+      spriteID: 2962e0a23ac4c6710800000000000000
+      internalID: 1687808224026044050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_39
+      name: archer_flipped_32
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 954
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866c2814949e13750800000000000000
+      internalID: 6283059455999526504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_33
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 958
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bcc7502f05f53c0800000000000000
+      internalID: -4368684113121719544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_34
       rect:
         serializedVersion: 2
         x: 308
+        y: 957
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2abfc882a03e1e60800000000000000
+      internalID: 7934833068111542829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_35
+      rect:
+        serializedVersion: 2
+        x: 25
         y: 881
         width: 27
         height: 35
@@ -1220,81 +1136,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4d1dc0240cf6eca0800000000000000
-      internalID: -5987821559882113715
+      spriteID: ec8bbb7efcd13c970800000000000000
+      internalID: 8773889277831133390
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_40
+      name: archer_flipped_36
       rect:
         serializedVersion: 2
-        x: 25
-        y: 813
-        width: 27
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ea1d07baf3552800800000000000000
-      internalID: 586967662719736550
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_41
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 814
-        width: 26
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b9b7f15f4b3356660800000000000000
-      internalID: 7378360416816036763
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_42
-      rect:
-        serializedVersion: 2
-        x: 169
-        y: 810
-        width: 32
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 75c86fbe43f6a51e0800000000000000
-      internalID: -2208330394184020905
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_43
-      rect:
-        serializedVersion: 2
-        x: 239
-        y: 812
+        x: 86
+        y: 884
         width: 35
         height: 30
       alignment: 0
@@ -1304,17 +1157,80 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9691683fd4de5e510800000000000000
-      internalID: 1577928163517143401
+      spriteID: a85ffb4c9deb199c0800000000000000
+      internalID: -3922143957944896118
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_44
+      name: archer_flipped_37
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 882
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5b71018af189f10800000000000000
+      internalID: 2276604418320741856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_38
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 886
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035e831cb4d67c7e0800000000000000
+      internalID: -1745306158451071696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_39
       rect:
         serializedVersion: 2
         x: 308
+        y: 885
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8949f8cc3d3631920800000000000000
+      internalID: 2959819141433758872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_40
+      rect:
+        serializedVersion: 2
+        x: 25
         y: 809
         width: 27
         height: 35
@@ -1325,81 +1241,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61d72dda7f6213fd0800000000000000
-      internalID: -2364065484177769194
+      spriteID: 46063c313b9a428a0800000000000000
+      internalID: -6330748589580263324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_45
+      name: archer_flipped_41
       rect:
         serializedVersion: 2
-        x: 25
-        y: 741
-        width: 27
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9483d2d3216e1a510800000000000000
-      internalID: 1558779912057075785
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_46
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 742
-        width: 26
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ca5335a85c0bd670800000000000000
-      internalID: 8564452691243391688
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_47
-      rect:
-        serializedVersion: 2
-        x: 169
-        y: 738
-        width: 32
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3713a02446d7730b0800000000000000
-      internalID: -5748988529756982925
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_48
-      rect:
-        serializedVersion: 2
-        x: 239
-        y: 740
+        x: 86
+        y: 812
         width: 35
         height: 30
       alignment: 0
@@ -1409,17 +1262,80 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21290f74b1e6192a0800000000000000
-      internalID: -6732478904492060142
+      spriteID: b28c07f1756a09630800000000000000
+      internalID: 3931825367814293547
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_49
+      name: archer_flipped_42
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 810
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a35d47cca2d0baf0800000000000000
+      internalID: -382574328806550623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_43
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 814
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fddc0dfded3e11b0800000000000000
+      internalID: -5684037587332964872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_44
       rect:
         serializedVersion: 2
         x: 308
+        y: 813
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ee07fd2497dd450800000000000000
+      internalID: 6115177197162524240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_45
+      rect:
+        serializedVersion: 2
+        x: 25
         y: 737
         width: 27
         height: 35
@@ -1430,20 +1346,62 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbe25dff6546d5b20800000000000000
-      internalID: 3124764041287118524
+      spriteID: c6d4796ba32054640800000000000000
+      internalID: 5063455807242718572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_50
+      name: archer_flipped_46
       rect:
         serializedVersion: 2
-        x: 22
-        y: 670
+        x: 86
+        y: 740
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c89f629de4dc73b0800000000000000
+      internalID: -5513297726979204923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_47
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 738
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d4298860cb5b1e0800000000000000
+      internalID: -2182631708144022160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_48
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 742
         width: 26
-        height: 32
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1451,20 +1409,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f86cfead97073e2c0800000000000000
-      internalID: -4403552341971712369
+      spriteID: c95777d7fd18c9110800000000000000
+      internalID: 1269031991894308252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_51
+      name: archer_flipped_49
       rect:
         serializedVersion: 2
-        x: 99
-        y: 668
-        width: 21
-        height: 36
+        x: 308
+        y: 741
+        width: 27
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1472,59 +1430,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15087f295130b6b70800000000000000
-      internalID: 8893205280368066641
+      spriteID: 5f757e8d8c369a130800000000000000
+      internalID: 3578501093206218741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_52
+      name: archer_flipped_50
       rect:
         serializedVersion: 2
-        x: 170
-        y: 666
-        width: 23
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6c6ac412d7423caa0800000000000000
-      internalID: -6142025346955041082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_53
-      rect:
-        serializedVersion: 2
-        x: 241
-        y: 667
-        width: 29
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b688b96011b75e850800000000000000
-      internalID: 6405661358059915371
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_54
-      rect:
-        serializedVersion: 2
-        x: 313
+        x: 19
         y: 669
         width: 28
         height: 32
@@ -1535,292 +1451,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54c365993a181b310800000000000000
-      internalID: 1419057897250634821
+      spriteID: 03f5d6d5eab3daf80800000000000000
+      internalID: -8093747335237116112
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_55
+      name: archer_flipped_51
       rect:
         serializedVersion: 2
-        x: 22
-        y: 596
-        width: 24
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2ed3d2e091016b8e0800000000000000
-      internalID: -1678136111350858270
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_56
-      rect:
-        serializedVersion: 2
-        x: 94
-        y: 596
-        width: 24
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 59d44994e163671c0800000000000000
-      internalID: -4506354873426227819
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_57
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 596
-        width: 24
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b6eee574510457630800000000000000
-      internalID: 3924113110459149931
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_58
-      rect:
-        serializedVersion: 2
-        x: 237
-        y: 595
-        width: 25
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 01db4f53f04beb4c0800000000000000
-      internalID: -4269777419277910768
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_59
-      rect:
-        serializedVersion: 2
-        x: 309
-        y: 595
-        width: 25
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d1cbdbe6e9954f5c0800000000000000
-      internalID: -4182619616922715107
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_60
-      rect:
-        serializedVersion: 2
-        x: 13
-        y: 524
-        width: 31
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d28279d81ba629a00800000000000000
-      internalID: 761788597796284461
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_61
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 524
-        width: 31
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ae1c6c8f8c12412f0800000000000000
-      internalID: -1003139669945826838
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_62
-      rect:
-        serializedVersion: 2
-        x: 157
-        y: 524
-        width: 31
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b3a152b0c0069a900800000000000000
-      internalID: 696193222248307259
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_63
-      rect:
-        serializedVersion: 2
-        x: 232
-        y: 523
-        width: 31
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f190acf8687917910800000000000000
-      internalID: 1833413127510296863
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_64
-      rect:
-        serializedVersion: 2
-        x: 304
-        y: 523
-        width: 31
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c8808066ac78e32d0800000000000000
-      internalID: -3297048573823678324
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_65
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 436
-        width: 31
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 769c6d55115bbd120800000000000000
-      internalID: 2439742709210466663
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_66
-      rect:
-        serializedVersion: 2
-        x: 86
-        y: 436
-        width: 31
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa00107a3d7875760800000000000000
-      internalID: 7446569851990114479
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_67
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 436
-        width: 31
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 384eb3ed2bcea8e70800000000000000
-      internalID: 9118360648541791363
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_68
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 447
-        width: 36
+        x: 90
+        y: 667
+        width: 29
         height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1829,82 +1472,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01a563a23e90a63d0800000000000000
-      internalID: -3212744512904996336
+      spriteID: a51b9d464bc1fbbd0800000000000000
+      internalID: -2612337697739919014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_69
+      name: archer_flipped_52
       rect:
         serializedVersion: 2
-        x: 296
-        y: 447
-        width: 36
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 08c21316224619020800000000000000
-      internalID: 2346766979659017344
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_70
-      rect:
-        serializedVersion: 2
-        x: 25
-        y: 382
-        width: 25
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5f16c0eee3ec39710800000000000000
-      internalID: 1698928254125892085
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_71
-      rect:
-        serializedVersion: 2
-        x: 99
-        y: 380
-        width: 20
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4339cc13351b0c380800000000000000
-      internalID: -8952961088336653516
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_72
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 378
-        width: 24
+        x: 167
+        y: 666
+        width: 23
         height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1913,18 +1493,60 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91bfb69497516e630800000000000000
-      internalID: 3955872933358598937
+      spriteID: f6a4d8ab621ec8b30800000000000000
+      internalID: 4291052101432068719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_73
+      name: archer_flipped_53
       rect:
         serializedVersion: 2
-        x: 241
-        y: 379
+        x: 240
+        y: 668
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84804cac0f8e47d0800000000000000
+      internalID: -2932249022779325297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_54
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 670
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872c903762aca56a0800000000000000
+      internalID: -6459628449021967752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_55
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 595
         width: 25
         height: 39
       alignment: 0
@@ -1934,17 +1556,311 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5d6be225177b5560800000000000000
-      internalID: 7303562153375264092
+      spriteID: c857e76f1d4b47c90800000000000000
+      internalID: -7172909492617710196
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_74
+      name: archer_flipped_56
       rect:
         serializedVersion: 2
-        x: 313
+        x: 98
+        y: 595
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21dfbf2da0a8d380800000000000000
+      internalID: -8946223994080603857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_57
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 596
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7279daadaa56fa0800000000000000
+      internalID: -5808048288232429573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_58
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 596
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69714e7e4a8e317c0800000000000000
+      internalID: -4101679040641624170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_59
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 596
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b7de2a916ef1aa0800000000000000
+      internalID: -6187974365201728732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_60
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 523
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d222ab3acd6718d00800000000000000
+      internalID: 973189684500505133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_61
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 523
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a429971f40d37f2e0800000000000000
+      internalID: -2092136410449866166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_62
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 524
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb37a1d654ecdc50800000000000000
+      internalID: 6691474207901432824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_63
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 524
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606679c8e36515d00800000000000000
+      internalID: 959643022253319686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_64
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 524
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b15a27f1fa540180800000000000000
+      internalID: -9150088547629641292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_65
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 447
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf1d245529709090800000000000000
+      internalID: -8029784934368600143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_66
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 447
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907251e85b6b107c0800000000000000
+      internalID: -4106800494296094967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_67
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 436
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c81319840db000c0800000000000000
+      internalID: -4611478191250138942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_68
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 436
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fbfec0079f8aaf0800000000000000
+      internalID: -384783508491485402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_69
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 436
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82b2fac8ea11fbb0800000000000000
+      internalID: -4904108932090121588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_70
+      rect:
+        serializedVersion: 2
+        x: 24
         y: 381
         width: 23
         height: 34
@@ -1955,61 +1871,40 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a0c13b2ff409c050800000000000000
-      internalID: 5821189487340929186
+      spriteID: 5deeca239ef2fc5e0800000000000000
+      internalID: -1887237040220868907
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_75
+      name: archer_flipped_71
       rect:
         serializedVersion: 2
-        x: 24
-        y: 310
-        width: 24
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0ecff42f536646320800000000000000
-      internalID: 2550275670883171552
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_76
-      rect:
-        serializedVersion: 2
-        x: 99
-        y: 308
-        width: 23
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 452566bd390acd2f0800000000000000
-      internalID: -946705264753094060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_77
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 306
+        x: 94
+        y: 379
         width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f7528dcdedd5bd0800000000000000
+      internalID: -2639708766468735220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_72
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 378
+        width: 24
         height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2018,20 +1913,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76c662785e292ba90800000000000000
-      internalID: -7299610531501544345
+      spriteID: 8ed8fe6f04b0c9750800000000000000
+      internalID: 6312933151315299816
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_78
+      name: archer_flipped_73
       rect:
         serializedVersion: 2
         x: 241
-        y: 307
-        width: 25
-        height: 37
+        y: 380
+        width: 20
+        height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2039,17 +1934,38 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c909059fd7ed71730800000000000000
-      internalID: 3969886229185466524
+      spriteID: 336da25d1784165b0800000000000000
+      internalID: -5376936826358802893
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_79
+      name: archer_flipped_74
       rect:
         serializedVersion: 2
-        x: 311
+        x: 310
+        y: 382
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0270647b699e9d0800000000000000
+      internalID: -2744496784007552858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_75
+      rect:
+        serializedVersion: 2
+        x: 23
         y: 309
         width: 26
         height: 32
@@ -2060,19 +1976,40 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 726268bae58bf8d50800000000000000
-      internalID: 6741809883941053991
+      spriteID: 9010dbc2a1509b1f0800000000000000
+      internalID: -1028785429899575031
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_80
+      name: archer_flipped_76
       rect:
         serializedVersion: 2
-        x: 25
-        y: 238
-        width: 24
+        x: 94
+        y: 307
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36cee154d54f5a70800000000000000
+      internalID: 8817843373624706621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 306
+        width: 25
         height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2081,19 +2018,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 144b2de523773fc30800000000000000
-      internalID: 4391985119839302721
+      spriteID: 04ba7fa3715727100800000000000000
+      internalID: 104274484016950080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_81
+      name: archer_flipped_78
       rect:
         serializedVersion: 2
-        x: 99
-        y: 236
-        width: 19
+        x: 238
+        y: 308
+        width: 23
         height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2102,20 +2039,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d3014c682f0c6dc0800000000000000
-      internalID: -3644521332160265262
+      spriteID: 91be933a9b0e78bd0800000000000000
+      internalID: -2627884769635341543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_82
+      name: archer_flipped_79
       rect:
         serializedVersion: 2
-        x: 170
-        y: 234
+        x: 312
+        y: 310
         width: 24
-        height: 33
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2123,38 +2060,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c6ba9ca3e4869630800000000000000
-      internalID: 3933477437942970049
+      spriteID: f3b4eab411288bee0800000000000000
+      internalID: -1245102286172173505
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_83
+      name: archer_flipped_80
       rect:
         serializedVersion: 2
-        x: 241
-        y: 235
-        width: 25
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: da8fb35a6e544eb80800000000000000
-      internalID: -8366485350830573395
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_84
-      rect:
-        serializedVersion: 2
-        x: 313
+        x: 24
         y: 237
         width: 23
         height: 33
@@ -2165,61 +2081,40 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91e3c47173dcae4c0800000000000000
-      internalID: -4257364861227614695
+      spriteID: 1a9f64b71286c9ca0800000000000000
+      internalID: -6008813309807625823
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_85
+      name: archer_flipped_81
       rect:
         serializedVersion: 2
-        x: 22
-        y: 166
-        width: 27
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: db2d0b6a3d594c480800000000000000
-      internalID: -8879807829000531267
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_86
-      rect:
-        serializedVersion: 2
-        x: 99
-        y: 164
-        width: 23
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1d17d31fffe7412e0800000000000000
-      internalID: -2155958683874528815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_87
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 162
+        x: 94
+        y: 235
         width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2c312614fca8db0800000000000000
+      internalID: -4788787374029815092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_82
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 234
+        width: 24
         height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2228,20 +2123,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10e855674179baa40800000000000000
-      internalID: 5380560293964647937
+      spriteID: 1881645508d3f5320800000000000000
+      internalID: 2548823535510755457
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_88
+      name: archer_flipped_83
       rect:
         serializedVersion: 2
-        x: 241
-        y: 163
-        width: 25
-        height: 37
+        x: 242
+        y: 236
+        width: 19
+        height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2249,17 +2144,38 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66a3c9f8ccefda720800000000000000
-      internalID: 2859221492986296934
+      spriteID: 0415c0e73ba77bff0800000000000000
+      internalID: -20412761967406784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_89
+      name: archer_flipped_84
       rect:
         serializedVersion: 2
         x: 311
+        y: 238
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9f1fbca1fae8880800000000000000
+      internalID: -8606749308232795737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_85
+      rect:
+        serializedVersion: 2
+        x: 23
         y: 165
         width: 26
         height: 36
@@ -2270,41 +2186,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8b7f839e0c460bf0800000000000000
-      internalID: -358515494840468595
+      spriteID: 0efcd5d3c493acc50800000000000000
+      internalID: 6686219596394778592
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_90
+      name: archer_flipped_86
       rect:
         serializedVersion: 2
-        x: 16
-        y: 94
-        width: 32
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e47082047d65f7080800000000000000
-      internalID: -9187529232318199986
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_91
-      rect:
-        serializedVersion: 2
-        x: 99
-        y: 92
+        x: 94
+        y: 163
         width: 25
-        height: 39
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2312,19 +2207,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ebb9e0e6b55128040800000000000000
-      internalID: 4648301247832431550
+      spriteID: 85ad03c5160b4ea90800000000000000
+      internalID: -7285504364973598120
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_92
+      name: archer_flipped_87
       rect:
         serializedVersion: 2
-        x: 170
-        y: 90
-        width: 26
+        x: 165
+        y: 162
+        width: 25
         height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2333,20 +2228,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f66b3d23e1b1a8d0800000000000000
-      internalID: -2836790700992141578
+      spriteID: cc3ec6682e12a26f0800000000000000
+      internalID: -708716734555823156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_93
+      name: archer_flipped_88
       rect:
         serializedVersion: 2
-        x: 243
-        y: 91
+        x: 238
+        y: 164
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73fc41a6883cf370800000000000000
+      internalID: 8357617159375745917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_89
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 166
         width: 27
-        height: 33
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2354,17 +2270,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ffd1014ebad92de60800000000000000
-      internalID: 7985618450872540671
+      spriteID: c11f39686c2ddd540800000000000000
+      internalID: 5034411708573282588
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_94
+      name: archer_flipped_90
       rect:
         serializedVersion: 2
-        x: 307
+        x: 22
         y: 93
         width: 31
         height: 29
@@ -2375,61 +2291,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0d8cc59bebf67b40800000000000000
-      internalID: 5437810589345549582
+      spriteID: 83924870fc0ef61f0800000000000000
+      internalID: -1049373008365082312
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_95
+      name: archer_flipped_91
       rect:
         serializedVersion: 2
-        x: 15
-        y: 22
-        width: 32
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4b8c4fde215e64c30800000000000000
-      internalID: 4343410760109836468
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_96
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 20
-        width: 30
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 94eba740d433cdcb0800000000000000
-      internalID: -4837935493822103991
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: archer_97
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 18
-        width: 32
+        x: 90
+        y: 91
+        width: 27
         height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2438,20 +2312,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b822759eb841f4930800000000000000
-      internalID: 4129541974469845643
+      spriteID: c1d22cfa92c9ce640800000000000000
+      internalID: 5110631380015000860
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_98
+      name: archer_flipped_92
       rect:
         serializedVersion: 2
-        x: 244
-        y: 19
-        width: 24
-        height: 32
+        x: 164
+        y: 90
+        width: 26
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2459,17 +2333,59 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f93c98ff4849c4790800000000000000
-      internalID: -7544491976808610913
+      spriteID: f443b037f404aff50800000000000000
+      internalID: 6915910887757526095
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: archer_99
+      name: archer_flipped_93
       rect:
         serializedVersion: 2
-        x: 315
+        x: 236
+        y: 92
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c22516ebb530d40800000000000000
+      internalID: 5549380039085272094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_94
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 94
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31317506b868327b0800000000000000
+      internalID: -5250204807408970989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_95
+      rect:
+        serializedVersion: 2
+        x: 14
         y: 20
         width: 31
         height: 28
@@ -2480,8 +2396,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 756f62887855c8300800000000000000
-      internalID: 255673319446476375
+      spriteID: d2585a1f609afd020800000000000000
+      internalID: 2368797776309224749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_96
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 19
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1df5e618081c1900800000000000000
+      internalID: 656426068712226076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 18
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f216c054a5519f90800000000000000
+      internalID: -6948678585837808908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_98
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 20
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1848f825680e2bae0800000000000000
+      internalID: -1534917655464541055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_flipped_99
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 22
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3add174898b82590800000000000000
+      internalID: -7698700598822184390
       vertices: []
       indices: 
       edges: []
