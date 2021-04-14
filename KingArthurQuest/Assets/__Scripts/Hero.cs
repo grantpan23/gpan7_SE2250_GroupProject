@@ -6,7 +6,9 @@ public enum PlayerState
 {
     walk,
     attack,
-    interact
+    interact,
+    stagger,
+    idle
 }
 
 public class Hero : MonoBehaviour
@@ -18,6 +20,9 @@ public class Hero : MonoBehaviour
     private Rigidbody2D myRigidbody;
     private Vector3 change; 
     private Animator animator;
+    public GameObject projectile;
+    public FloatValue currentHealth;
+    public Signal playerHealthSignal;
 
     // Start is called before the first frame update
     void Start()
@@ -49,16 +54,47 @@ public class Hero : MonoBehaviour
         change.y = Input.GetAxisRaw("Vertical");
 
         // For attacking
-        if(Input.GetButtonDown("attack") && currentState != PlayerState.attack)
+        if(Input.GetButtonDown("attack") && currentState != PlayerState.attack && currentState != PlayerState.stagger)
         {
             StartCoroutine(AttackCo());
         }
 
+        // For firing arrows
+        else if(Input.GetButtonDown("Second Weapon") && currentState != PlayerState.attack)
+        {
+            StartCoroutine(SecondAttackCo());
+        }
+
         // For walking
-        else if(currentState == PlayerState.walk)
+        else if(currentState == PlayerState.walk || currentState == PlayerState.idle)
         {
             UpdateAnimationAndMove();
         }
+    }
+
+    public void Knock(float knockTime, float damage)
+    {
+        currentHealth.RuntimeValue -= damage;
+        if (currentHealth.RuntimeValue>0)
+        {
+            playerHealthSignal.Raise();
+            StartCoroutine(KnockCo(knockTime));
+        }
+        else
+        {
+            this.gameObject.SetActive(false);
+        }
+
+        
+    }
+
+    // knock back co
+    private IEnumerator KnockCo(float knockTime)
+    {
+        yield return new WaitForSeconds(knockTime);
+        currentState = PlayerState.idle;
+        myRigidbody.velocity = Vector2.zero;
+
     }
 
     // Attacking co-routine
@@ -77,6 +113,39 @@ public class Hero : MonoBehaviour
         currentState = PlayerState.walk;
     }
 
+    // Bow Attacking co-routine
+    private IEnumerator SecondAttackCo()
+    {
+        // Starting attack animation
+        animator.SetBool("attacking", true);
+        currentState = PlayerState.attack;
+
+        // Putting small delay, waiting one frame
+        yield return null;
+        MakeArrow();
+
+        // Preventing it from going back into the attack animation
+        animator.SetBool("attacking", false);
+        yield return new WaitForSeconds(.3f);
+        currentState = PlayerState.walk;
+    }
+
+    // Creating arrow at player position
+    private void MakeArrow()
+    {
+        Vector2 temp = new Vector2(animator.GetFloat("moveX"), animator.GetFloat("moveY"));
+        Arrow arrow = Instantiate(projectile, transform.position, Quaternion.identity).GetComponent<Arrow>();
+        arrow.Setup(temp, ChooseArrowDirection());
+    }
+
+    // Determines the arrows correct direction
+    Vector3 ChooseArrowDirection()
+    {
+        // Determining angle of the arrow
+        float temp = Mathf.Atan2(animator.GetFloat("moveY"), animator.GetFloat("moveX")) * Mathf.Rad2Deg;
+        return new Vector3(0,0,temp);
+    }
+
     void UpdateAnimationAndMove(){
         if(change != Vector3.zero){
             MoveCharacter();
@@ -90,9 +159,22 @@ public class Hero : MonoBehaviour
     }
 
     void MoveCharacter(){
-
+        change.Normalize();
         myRigidbody.MovePosition(transform.position + change*speed *Time.deltaTime);
     }
 
-   
+   void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("chalice"))
+        {
+            ScoreController.scoreValue += 500;
+            Destroy(other.gameObject);
+        }
+        
+        if (other.gameObject.CompareTag("coin"))
+        {
+            ScoreController.scoreValue += 50;
+            Destroy(other.gameObject);
+        }
+    }
 }

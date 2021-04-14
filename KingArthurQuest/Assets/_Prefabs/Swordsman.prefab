@@ -10,7 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 13893263895241739}
   - component: {fileID: 13893263895241738}
-  m_Layer: 0
+  - component: {fileID: 4668362996922222029}
+  m_Layer: 9
   m_Name: up hit box
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -56,14 +57,30 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 0.19569266, y: 0.50220615}
-      - {x: -0.24814272, y: 0.659508}
-      - {x: -0.31471765, y: -0.11668858}
+    - - {x: 0.3491891, y: 1.0116284}
+      - {x: -0.40861627, y: 0.9874922}
+      - {x: -0.43100283, y: -0.121340856}
       - {x: 0.13258922, y: -0.08010274}
-      - {x: 0.18548067, y: 0.18381883}
-      - {x: 0.1857941, y: 0.2620209}
-      - {x: 0.187583, y: 0.2939858}
-      - {x: 0.18665525, y: 0.34990162}
+      - {x: 0.19013196, y: -0.08135985}
+      - {x: 0.2695195, y: -0.082246244}
+      - {x: 0.29456547, y: 0.110221624}
+      - {x: 0.31689465, y: 0.37548894}
+--- !u!114 &4668362996922222029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 13893263895241748}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 708a781240f4bd14b9f0d6401c5bda38, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  thrust: 5
+  knockTime: 0.4
+  damage: 1
+  health: 0
 --- !u!1 &13893264428517392
 GameObject:
   m_ObjectHideFlags: 0
@@ -74,7 +91,8 @@ GameObject:
   m_Component:
   - component: {fileID: 13893264428517399}
   - component: {fileID: 13893264428517398}
-  m_Layer: 0
+  - component: {fileID: 6757439965149079050}
+  m_Layer: 9
   m_Name: left hit box
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -120,13 +138,29 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 0.0796358, y: 0.48226058}
-      - {x: -0.2721575, y: 0.23053744}
-      - {x: -0.19466174, y: 0.1317695}
-      - {x: 0.0045274645, y: 0.028289095}
-      - {x: 0.06541979, y: -0.060612127}
-      - {x: 0.57578135, y: -0.09534529}
-      - {x: 0.5268308, y: 0.20920463}
+    - - {x: -0.8257471, y: 0.5360787}
+      - {x: -0.91551733, y: 0.23287739}
+      - {x: -0.9479776, y: -0.26601654}
+      - {x: -0.8727814, y: -0.38353634}
+      - {x: 0.02798791, y: -0.3601216}
+      - {x: 0.22719735, y: 0.09184815}
+      - {x: 0.18994415, y: 0.5508326}
+--- !u!114 &6757439965149079050
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 13893264428517392}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 708a781240f4bd14b9f0d6401c5bda38, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  thrust: 5
+  knockTime: 0.4
+  damage: 1
+  health: 0
 --- !u!1 &13893264645915579
 GameObject:
   m_ObjectHideFlags: 0
@@ -137,7 +171,8 @@ GameObject:
   m_Component:
   - component: {fileID: 13893264645915578}
   - component: {fileID: 13893264645915577}
-  m_Layer: 0
+  - component: {fileID: 8011536145099718458}
+  m_Layer: 9
   m_Name: down hit box
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -183,13 +218,29 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 0.27572942, y: 0.5221653}
-      - {x: -0.1921151, y: 0.2945885}
-      - {x: -0.066597335, y: -0.34946352}
-      - {x: -0.1795648, y: -0.72926867}
-      - {x: -0.07864498, y: -0.67394805}
-      - {x: 0.4277106, y: -0.38786665}
-      - {x: 0.40677235, y: 0.18927428}
+    - - {x: 0.16658717, y: 0.097201824}
+      - {x: -0.1032145, y: 0.09803553}
+      - {x: -0.37073112, y: -0.39158207}
+      - {x: -0.3831005, y: -0.8392448}
+      - {x: -0.37809983, y: -1.0576947}
+      - {x: 0.3726003, y: -1.0739664}
+      - {x: 0.2617091, y: -0.36740205}
+--- !u!114 &8011536145099718458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 13893264645915579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 708a781240f4bd14b9f0d6401c5bda38, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  thrust: 5
+  knockTime: 0.4
+  damage: 1
+  health: 0
 --- !u!1 &13893265171376678
 GameObject:
   m_ObjectHideFlags: 0
@@ -205,8 +256,8 @@ GameObject:
   - component: {fileID: 13893265171376666}
   - component: {fileID: 13893265171376671}
   - component: {fileID: 13893265171376664}
-  - component: {fileID: 13893265171376670}
-  m_Layer: 0
+  - component: {fileID: 980635168002918922}
+  m_Layer: 9
   m_Name: Swordsman
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -317,7 +368,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.011395082, y: -0.26197052}
+  m_Offset: {x: 0.00085737556, y: -0.12719357}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -328,7 +379,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.39985582, y: 0.2938187}
+  m_Size: {x: 0.21431868, y: 0.29731923}
   m_EdgeRadius: 0
 --- !u!114 &13893265171376666
 MonoBehaviour:
@@ -344,6 +395,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentState: 0
   speedMultiplier: 6
+  projectile: {fileID: 0}
+  currentHealth: {fileID: 11400000, guid: 8339afd72e1b7134bbf967a45f38edf8, type: 2}
+  playerHealthSignal: {fileID: 11400000, guid: a92e2fe8e482aa748af895171b8f8ed0, type: 2}
 --- !u!114 &13893265171376671
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -378,28 +432,38 @@ Animator:
   m_Controller: {fileID: 9100000, guid: c78ace2aadb957b40ab728faf300d827, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
-  m_ApplyRootMotion: 0
+  m_ApplyRootMotion: 1
   m_LinearVelocityBlending: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &13893265171376670
-MonoBehaviour:
+--- !u!61 &980635168002918922
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 13893265171376678}
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 708a781240f4bd14b9f0d6401c5bda38, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  thrust: 5
-  knockTime: 0.4
-  damage: 0
-  health: 0
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.0017503351, y: -0.09976992}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1.125, y: 1.125}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.3103621, y: 0.590418}
+  m_EdgeRadius: 0
 --- !u!1 &13893265278334176
 GameObject:
   m_ObjectHideFlags: 0
@@ -410,7 +474,8 @@ GameObject:
   m_Component:
   - component: {fileID: 13893265278334183}
   - component: {fileID: 13893265278334182}
-  m_Layer: 0
+  - component: {fileID: 2500252648597181977}
+  m_Layer: 9
   m_Name: right hit box
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -456,13 +521,31 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: -0.06444323, y: 0.45035267}
-      - {x: -0.6643594, y: 0.15077443}
-      - {x: -0.57085645, y: -0.08429548}
+    - - {x: 0.81727463, y: 0.3942728}
+      - {x: 0.45335734, y: 0.5303948}
+      - {x: -0.22391497, y: 0.4981941}
+      - {x: -0.30407783, y: 0.20693249}
+      - {x: -0.38369727, y: -0.051536635}
       - {x: -0.13954297, y: -0.115891695}
-      - {x: -0.082653284, y: 0.09588359}
-      - {x: -0.024523646, y: 0.12983008}
-      - {x: 0.29071075, y: 0.14931211}
+      - {x: -0.07563483, y: -0.14278805}
+      - {x: 0.26089418, y: -0.37325224}
+      - {x: 0.80773795, y: -0.3444106}
+--- !u!114 &2500252648597181977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 13893265278334176}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 708a781240f4bd14b9f0d6401c5bda38, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  thrust: 5
+  knockTime: 0.4
+  damage: 1
+  health: 0
 --- !u!1 &13893265284692992
 GameObject:
   m_ObjectHideFlags: 0
@@ -472,7 +555,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 13893265284692999}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: GroundCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}

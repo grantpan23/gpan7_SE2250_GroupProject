@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Scenes/KingArthurQuest.unity
     guid: 06d9c52b4376ac248abe0a855418e603
+  - enabled: 1
+    path: Assets/_Scenes/Level2.unity
+    guid: f5dc3ee124cdab74ca80269bc612f6a7
+  - enabled: 1
+    path: Assets/_Scenes/Victory.unity
+    guid: 286034ec32412b94bbecfaf32240755e
   m_configObjects: {}
